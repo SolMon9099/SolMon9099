@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a full stack blockchain(Solana & Ethereum) & web developer.</h1>
+<h1 align="center">Hi 👋, I'm a full stack web developer & blockchain(Solana & Ethereum).</h1>
 <p>
   <a href="https://github.com/SolMon9099/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=SolMon9099&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
